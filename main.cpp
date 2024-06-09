@@ -1,9 +1,9 @@
 #include <iostream>
 #include <conio.h>
-#include "bubble.h"
-#include "inserction_sort.h"
-#include "radix_sort.h"
-#include "counting_sort.h"
+#include "sort/bubble.h"
+#include "sort/inserction_sort.h"
+#include "sort/radix_sort.h"
+#include "sort/counting_sort.h"
 #include "search/sequential_search.h"
 #include "search/binary_search.h"
 // entrypoint

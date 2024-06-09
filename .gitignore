@@ -1,5 +1,7 @@
 /main.exe
-/counting_sort.h.gch
-/bubble.h.gch
-/radix_sort.h.gch
+/sort/counting_sort.h.gch
+/sort/bubble.h.gch
+/sort/radix_sort.h.gch
 /inserction_sort.h.gch
+/search/binary_search.h.gch
+/search/sequential_search.h.gch
